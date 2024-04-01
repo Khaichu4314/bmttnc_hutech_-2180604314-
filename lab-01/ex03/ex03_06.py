@@ -11,3 +11,4 @@ if result:
     print("Phần tử đã được xóa từ Dictionary:", my_dict)
 else:
     print("Không tìm thấy phần tử cần xóa trong Dictionary.")
+    
